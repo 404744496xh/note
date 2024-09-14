@@ -37,3 +37,5 @@ buildNumber.properties
 # Compiled class file
 *.class
 
+
+*.exe
