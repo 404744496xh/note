@@ -1,8 +1,7 @@
-git config --global user.email "404744496@qq.com"
+﻿git config --global user.email "404744496@qq.com"
 git config user.name 404744496xh    
 
-git@gitee.com:xh404744496xh/algorithm.git
-https://gitee.com/xh404744496xh/algorithm.git
+https://gitee.com/xh404744496xh/note.git
 
 git pull origin master
 
