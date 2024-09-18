@@ -9,7 +9,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "C:\\a.exe"
+                "F:\\test\\a.exe"
                 // "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
