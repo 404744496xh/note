@@ -1,7 +1,10 @@
 ﻿git config --global user.email "404744496@qq.com"
 git config user.name 404744496xh    
 
+//gitee地址
 https://gitee.com/xh404744496xh/note.git
+//github地址
+https://github.com/404744496xh/note.git
 
 git pull origin master
 
