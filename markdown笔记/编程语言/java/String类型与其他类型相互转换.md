@@ -1,5 +1,4 @@
 ###### 1.String转char
-
 1>toCharArray()
 
 说明：将字符串转换为一个新的字符数组
@@ -23,7 +22,6 @@ char c=s.charAt(0);
 备注：只转一个字符
 
 ###### 2.String转byte
-
 1>getBytes()
 
 说明：使用平台的默认字符集将此 String 编码为 byte 序列，并将结果存储到一个新的 byte 数组中。
@@ -37,7 +35,6 @@ byte[]b=s.getBytes();
 备注：如果需要对编码过程进行更多控制，则应该使用 CharsetEncoder 类。
 
 ###### 3.String转int
-
 1>parseInt(String s)throws NumberFormatException
 
 说明：将字符串参数作为有符号的十进制整数进行解析。
@@ -97,13 +94,11 @@ int i = Integer.valueOf(s，2).intValue();//将s视为二进制 i=85
 备注：注意抛出异常。建议用上面的方法。
 
 ###### 4.String转double，String转long，string转short参见String转int
-
 说明：方法都一样，唯一不同的是函数名不一样。对于int而言是intValue()，Integer.parseInt（）；对于double来说是doubleValue()，Double.parseDouble（）。
 
 转成其他形式也一样。
 
 ###### 5.String转Boolean
-
 1>parseBoolean(String s)
 
 说明：将字符串参数解析为 boolean 值
@@ -117,3 +112,4 @@ Boolean.parseBoolean("yes") //返回 false。
 备注：用的不太多。
 
 2>getBoolean(String name)
+
