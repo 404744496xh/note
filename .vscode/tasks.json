@@ -10,7 +10,6 @@
                 "${file}",
                 "-o",
                 "F:\\test\\a.exe"
-                // "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
                 "cwd": "E:/toolbox/MinGW/MinGW/bin"
