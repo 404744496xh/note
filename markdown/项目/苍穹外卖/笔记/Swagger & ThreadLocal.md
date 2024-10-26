@@ -242,3 +242,19 @@ public class EmployeeController {
 
 <img src="assets/image-20221107175649468.png" alt="image-20221107175649468" style="zoom:50%;" />
 
+## 1.4.3 ThreadLocal
+
+### **介绍：**
+
+ThreadLocal 并不是一个Thread，而是Thread的局部变量。
+ThreadLocal为每个线程提供单独一份存储空间，具有线程隔离的效果，只有在线程内才能获取到对应的值，线程外则不能访问。
+
+### **常用方法：**
+
+- public void set(T value) 	设置当前线程的线程局部变量的值
+- public T get() 		返回当前线程所对应的线程局部变量的值
+- public void remove()        移除当前线程的线程局部变量
+
+对ThreadLocal有了一定认识后，接下来继续解决**问题二**
+
+<img src="assets/image-20221111212349365.png" alt="image-20221111212349365" style="zoom:67%;" /> 
