@@ -371,8 +371,6 @@ print('编码 ：',rqg.encoding)
 print('响应头：',rqg.headers)  
 # 打印查看网页内容  
 print('查看网页内容：',rqg.text)  
-
-1234567891011121314
 ```
 
 ```python

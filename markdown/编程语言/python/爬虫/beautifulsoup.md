@@ -55,7 +55,6 @@ soup.a['class'] = "newClass"  # 可以对这些属性和内容等等进行修改
 del bs.a['class']             # 还可以对这个属性进行删除
 soup.find('a').get('id')      # 获取class值为story的a标签中id属性的值
 soup.title.string             # 获取title标签的值  ：The Dormouse's story
-1234567891011121314
 ```
 
 ## 三、具体利用
@@ -70,7 +69,6 @@ soup.find_all('div',attrs={'id':"even"})    # 效果同上
 方法二:
 soup.find_all('div',id="even",class_="square")            # 获取所有id=even并且class=square属性的div标签
 soup.find_all('div',attrs={"id":"even","class":"square"})    # 效果同上
-1234567
 ```
 
 ### 2、获取标签的属性值
@@ -134,7 +132,6 @@ print(soup.prettify())
 #   </a>
 #  </body>
 # </html>
-1234567891011121314151617
 ```
 
 ### 2、get_text()
