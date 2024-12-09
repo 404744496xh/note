@@ -18,7 +18,7 @@ def clean_markdown(markdown_text):
     return cleaned_markdown
 
 # 文件路径
-file_path = 'markdown/数据库&OS/Linux/总/cleaned_Linux命令.md'
+file_path = 'markdown/数据库&OS/Linux/总/Linux.md'
 cleaned_file_path = 'markdown/数据库&OS/Linux/总/cleaned_Linux命令2.md'
 
 # 确保目录存在
