@@ -44,6 +44,14 @@ def yuque_formot(file_path):
     # 使用 re.sub() 替换所有匹配的代码块
     new_content = re.sub(pattern, process_code_block, content)
 
+    # 正则表达式匹配HTML标签
+    html_tag_pattern = re.compile(r'<[^>]+>', re.DOTALL)
+    # 去除HTML标签
+    new_content = html_tag_pattern.sub('', new_content)
+
+    # 去除多余的空行，确保只保留一个换行符
+    new_content = re.sub(r'\n\s*\n+', '\n\n', new_content)  # 将多个空行替换为两个换行符
+
     # 将修改后的内容写回文件
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(new_content)
@@ -52,8 +60,8 @@ def yuque_formot(file_path):
 
 if __name__ == "__main__":
     # 原始路径字符串
-    file_path = "markdown/数据库&OS/Linux/outside/Linux命令_.md"
-    file_path = decode_path(file_path)
+    file_path = "markdown\数据库&OS\Linux\docker.md"
+    # file_path = decode_path(file_path)
     print(file_path)
     yuque_formot(file_path)
 

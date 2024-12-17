@@ -12,7 +12,9 @@ systemd=true
 
 [user]
 default=xh
+
 ```
+
 确保将 xh 替换为想要设置为默认用户的用户名。
 
 保存文件并退出编辑器。如果使用的是 nano，可以按 Ctrl + X，然后按 Y 确认保存，最后按 Enter 键。
@@ -32,16 +34,16 @@ default=xh
 | `wsl --install` | 安装 Windows Subsystem for Linux。 |
 | `wsl --update` | 更新 WSL 到最新版本。 |
 | `wsl --list --verbose` | 列出所有已安装的 Linux 发行版及其状态。 |
-| `wsl --set-default <DistributionName>` | 设置默认的 Linux 发行版。 |
-| `wsl -d <DistributionName>` | 启动特定的 Linux 发行版。 |
-| `wsl -e <CommandLine>` | 运行指定的 Linux 命令或脚本。 |
+| `wsl --set-default ` | 设置默认的 Linux 发行版。 |
+| `wsl -d ` | 启动特定的 Linux 发行版。 |
+| `wsl -e ` | 运行指定的 Linux 命令或脚本。 |
 | `wsl --list --running` | 列出当前正在运行的 Linux 发行版。 |
-| `wsl --terminate <DistributionName>` | 关闭特定的 Linux 发行版。 |
+| `wsl --terminate ` | 关闭特定的 Linux 发行版。 |
 | `wsl --shutdown` | 关闭所有正在运行的 Linux 发行版。 |
-| `wsl --export <DistributionName> <ExportPath>` | 导出 Linux 发行版到指定路径。 |
-| `wsl --import <NewDistributionName> <InstallPath> <ExportPath>` | 从指定路径导入 Linux 发行版。 |
-| `wsl --unregister <DistributionName>` | 卸载 Linux 发行版。 |
+| `wsl --export  ` | 导出 Linux 发行版到指定路径。 |
+| `wsl --import   ` | 从指定路径导入 Linux 发行版。 |
+| `wsl --unregister ` | 卸载 Linux 发行版。 |
 | `wsl --version` | 显示当前安装的 WSL 版本。 |
-| `wsl --set-version <DistributionName> <VersionNumber>` | 设置特定发行版的 WSL 版本（1 或 2）。 |
-| `wsl --set-default-version <VersionNumber>` | 设置 WSL 的默认版本。 |
+| `wsl --set-version  ` | 设置特定发行版的 WSL 版本（1 或 2）。 |
+| `wsl --set-default-version ` | 设置 WSL 的默认版本。 |
 
