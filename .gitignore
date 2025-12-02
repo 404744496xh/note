@@ -1,0 +1,257 @@
+###########################################################################
+# 核心说明：
+# 1. 所有目录规则统一用 **/xxx/ 或 **/xxx（递归匹配所有层级）
+# 2. 例外规则用 !**/xxx 精准排除，避免误屏蔽必要文件
+# 3. 彻底覆盖「根目录 + 任意子目录」的依赖/构建/临时目录，无死角
+###########################################################################
+
+###########################################################################
+# 一、优先忽略：敏感文件 + 超大文件（最高优先级，杜绝泄露/超限）
+###########################################################################
+# 敏感配置（密钥、环境变量）
+.env
+.env.local
+.env.*.local
+!env.example
+!/.env.example
+!/env.example.*
+**/application-*.yml
+**/application-*.yaml
+**/application-*.properties
+!**/application-example.yml
+!**/application-example.yaml
+!**/application-example.properties
+*.key
+*.pem
+*.jks
+*.pfx
+*.cer
+**/config/secret/
+**/config/sensitive/
+
+# 精准屏蔽已知超大文件（固定路径）
+/markdown/编程语言/Java/代码/java/拼图游戏/puzzlegame打包成exe/拼图游戏打包成exe/所需工具/jdk-11_windows-x64_bin.exe
+/markdown/javaWeb/springCloud/代码/docker/cloud-demo/mysql/data/ibdata1
+/markdown/javaWeb/springCloud/代码/docker/cloud-demo/mysql/data/  # 递归忽略该目录所有文件
+
+# 通用大文件格式（拦截任意目录下的大文件）
+**/*.exe
+**/*.msi
+**/*.dmg
+**/*.iso
+**/*.bin
+**/*.img
+**/*.dat
+**/*.tar.gz
+**/*.zip
+**/*.rar
+**/*.7z
+**/jdk-*.exe
+**/jdk-*.tar.gz
+**/tomcat-*.zip
+**/maven-*.zip
+**/node-v*.tar.gz
+
+###########################################################################
+# 二、系统 + 编辑器配置（本地环境文件，不共享）
+###########################################################################
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+**/.vscode/*
+!**/.vscode/extensions.json
+!**/.vscode/settings.json
+!**/.vscode/tasks.json
+!**/.vscode/launch.json
+**/.vscode/.sonarlint
+**/.vscode/settings.json.user
+
+# IntelliJ 系列（IDEA/WebStorm 等）
+**/.idea/*
+!**/.idea/codeStyles/
+!**/.idea/inspectionProfiles/
+!**/.idea/modules.xml
+!**/.idea/workspace.xml
+**/*.iml
+**/*.iws
+**/*.ipr
+**/out/  # 所有目录下的 IDE 编译输出
+
+# Eclipse
+**/.project
+**/.classpath
+**/.c9/
+**/*.launch
+**/.settings/
+**/bin/  # 所有目录下的 Eclipse 编译产物
+
+# 其他编辑器
+**/*.swp
+**/*.swo
+**/*~
+**/.sublime-workspace
+**/.sublime-project
+**/.atom/
+**/.buildozer/
+**/.envrc
+**/.venv
+**/.coverage
+**/.mypy_cache/
+**/.pytest_cache/
+
+###########################################################################
+# 三、依赖目录 + 构建产物（前后端通用，可重复生成）
+###########################################################################
+# 前端核心依赖（任意目录下的 node_modules）
+**/node_modules/
+**/bower_components/
+**/.pnpm-store/
+**/yarn-offline-cache/
+
+# 前端构建产物（任意目录下的构建目录）
+**/dist/
+**/dist-ssr/
+**/build/
+**/out/
+**/*.ngBuild/
+**/.vuepress/dist/
+**/storybook-static/
+**/docs/_site/
+**/public/build/
+**/src/assets/build/
+**/.esbuild/
+**/.vite/
+**/.next/
+**/.nuxt/
+**/.gatsby/
+**/.astro/
+**/.svelte-kit/
+
+# Java 后端构建产物（任意目录下的 target/classes 等）
+**/target/
+!**/.mvn/target/  # 例外：保留 Maven Wrapper 必要目录
+**/classes/
+**/*.jar
+**/*.war
+**/*.ear
+**/*.nar
+**/*.jar.original
+**/*.jardiff
+**/*.class
+
+# Maven/Gradle 依赖/缓存（任意目录下）
+**/.gradle/
+**/gradle-app.setting
+!**/gradle/wrapper/gradle-wrapper.jar
+!**/gradle/wrapper/gradle-wrapper.properties
+!**/gradlew
+!**/gradlew.bat
+**/.mvn/timing.properties
+!**/mvnw
+!**/mvnw.cmd
+!**/.mvn/wrapper/maven-wrapper.jar
+**/lib/
+**/libs/
+**/dependency/
+**/repository/
+**/*.so
+**/*.dll
+**/*.dylib
+
+# 包管理锁文件（按需保留，默认忽略）
+**/yarn.lock
+**/package-lock.json
+**/pnpm-lock.yaml
+**/bower.json
+**/npm-shrinkwrap.json
+
+###########################################################################
+# 四、临时文件 + 日志 + 测试报告（任意目录下的临时文件）
+###########################################################################
+# 日志文件
+**/logs/
+**/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+hs_err_pid*
+replay_pid*
+**/php_errors.log
+
+# 临时文件
+**/*.tmp
+**/*.temp
+**/.cache/
+**/.eslintcache
+**/.rpt2_cache/
+**/.rts2_cache_cjs/
+**/.rts2_cache_es/
+**/.rts2_cache_umd/
+**/.tmp/
+**/.temp/
+**/dump/
+core
+**/.mtj.tmp/
+**/*.ctxt
+**/*.bak
+**/*.old
+**/*.java~
+**/*.javac
+**/.protobin
+
+# 测试/覆盖率报告
+**/coverage/
+**/junit-report/
+**/test-results/
+**/*.gcno
+**/*.gcda
+**/*.pprof
+
+###########################################################################
+# 五、数据库相关文件（数据不提交，仅保留迁移脚本）
+###########################################################################
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+**/ibdata*
+**/ib_logfile*
+**/mysql/data/
+**/postgres/data/
+**/mongo/data/
+**/db/backup/
+**/db/logs/
+!**/db/migration/  # 例外：保留所有目录下的数据库迁移脚本
+
+###########################################################################
+# 六、前端编译产物 + 源码映射（任意目录下的编译文件）
+###########################################################################
+**/*.js
+!**/*.config.js
+!**/*.babelrc.js
+!**/*.eslintrc.js
+!**/*.prettierrc.js
+**/*.js.map
+**/*.css.map
+**/*.less.map
+**/*.scss.map
+**/*.sass.map
+**/*.vue.js
+**/*.vue.d.ts
+**/*.tsbuildinfo
+
+###########################################################################
+# 七、自定义忽略（无用文件夹/特殊需求）
+###########################################################################
+项目/
+test/

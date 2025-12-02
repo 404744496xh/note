@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="734d83c2-1e88-465a-bebf-1fab35be638c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\toolbox\apache-maven-3.9.6\mvn_reppo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.9.6" />
+        <option name="userSettingsFile" value="E:\toolbox\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2bZH2xySx4kMN0y123i60vAvtcb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringbootWebDemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/toolbox/java/Maven-SpringBootWeb/springboot-web-Demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;cn.yiiguxing.plugin.translate&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.springbootwebdemo.dao" />
+      <recent name="com.example.springbootwebdemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\toolbox\java\Maven-SpringBootWeb\springboot-web-Demo\src\main\java\com\example\springbootwebdemo\dao" />
+      <recent name="E:\toolbox\java\Maven-SpringBootWeb\springboot-web-Demo\src\main\java\com\example\springbootwebdemo\service" />
+      <recent name="E:\toolbox\java\Maven-SpringBootWeb\springboot-web-Demo\src\main\resources\static" />
+      <recent name="E:\toolbox\java\Maven-SpringBootWeb\springboot-web-Demo\src\main\resources" />
+      <recent name="E:\toolbox\java\Maven-SpringBootWeb\springboot-web-Demo\src\main\java\com\example\springbootwebdemo\util" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springbootwebdemo.service.impl" />
+      <recent name="com.example.springbootwebdemo.dao" />
+      <recent name="com.example.springbootwebdemo.controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootWebDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-web-Demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootwebdemo.SpringbootWebDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="734d83c2-1e88-465a-bebf-1fab35be638c" name="Changes" comment="" />
+      <created>1706415479344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706415479344</updated>
+      <workItem from="1706415868618" duration="2215000" />
+      <workItem from="1706443792803" duration="1862000" />
+      <workItem from="1706502957657" duration="1771000" />
+      <workItem from="1706508379938" duration="1473000" />
+      <workItem from="1706577443898" duration="3887000" />
+      <workItem from="1706598487845" duration="2636000" />
+      <workItem from="1706668673483" duration="8982000" />
+      <workItem from="1706699622300" duration="7000" />
+      <workItem from="1706699662809" duration="136000" />
+      <workItem from="1706846179208" duration="4742000" />
+      <workItem from="1706863701152" duration="2406000" />
+      <workItem from="1706932352392" duration="7100000" />
+      <workItem from="1706961970482" duration="617000" />
+      <workItem from="1707028763693" duration="3376000" />
+      <workItem from="1707103934914" duration="1829000" />
+      <workItem from="1707187712752" duration="6006000" />
+      <workItem from="1707275127892" duration="5010000" />
+      <workItem from="1707365958274" duration="5236000" />
+      <workItem from="1707969562024" duration="177000" />
+      <workItem from="1708414623856" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6dc1bb4-4558-410d-93b0-322e7a9d23c5" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/Accounts/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Accounts/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Accounts/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Accounts/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Accounts/usermanage/UserAccountManage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Accounts/usermanage/UserAccountManage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usermanage/UserAccountManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usermanage/UserAccountManage.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2YQULLsrAs4a5FEduxO3Cu3b6TO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/toolbox/java/untitled",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\toolbox\java\Accounts\lib" />
+      <recent name="E:\toolbox\java\Accounts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\toolbox\java\Accounts\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Function" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JDBCUtilTest">
+    <configuration name="JDBCUtilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.JDBCUtilTest" />
+      <module name="Accounts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Accounts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="User" />
+      <module name="Accounts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserLoginRegisterUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserLoginRegisterUI" />
+      <module name="Accounts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserLoginRegisterUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="menu.UserLoginRegisterUI" />
+      <module name="Accounts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="menu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e6dc1bb4-4558-410d-93b0-322e7a9d23c5" name="更改" comment="" />
+      <created>1700457242852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700457242852</updated>
+      <workItem from="1700457243985" duration="232000" />
+      <workItem from="1700553740258" duration="5023000" />
+      <workItem from="1700619292129" duration="483000" />
+      <workItem from="1700619836919" duration="13000" />
+      <workItem from="1700622201781" duration="23000" />
+      <workItem from="1700622792133" duration="310000" />
+      <workItem from="1700629885711" duration="19000" />
+      <workItem from="1700629914393" duration="28000" />
+      <workItem from="1700910905723" duration="691000" />
+      <workItem from="1700911611464" duration="801000" />
+      <workItem from="1700912428554" duration="3376000" />
+      <workItem from="1700963687683" duration="1199000" />
+      <workItem from="1700964898923" duration="1135000" />
+      <workItem from="1700968914301" duration="2960000" />
+      <workItem from="1701087539054" duration="480000" />
+      <workItem from="1702992753058" duration="34000" />
+      <workItem from="1703311448723" duration="5283000" />
+      <workItem from="1703320700982" duration="12103000" />
+      <workItem from="1703334024689" duration="22000" />
+      <workItem from="1703334107872" duration="320000" />
+      <workItem from="1703335986730" duration="161000" />
+      <workItem from="1703336173200" duration="51000" />
+      <workItem from="1703336537806" duration="218000" />
+      <workItem from="1703376875365" duration="24917000" />
+      <workItem from="1703413905338" duration="2179000" />
+      <workItem from="1703416112439" duration="1261000" />
+      <workItem from="1703419472533" duration="645000" />
+      <workItem from="1703424088134" duration="45000" />
+      <workItem from="1703424404148" duration="9000" />
+      <workItem from="1703424423923" duration="39000" />
+      <workItem from="1703424669758" duration="59000" />
+      <workItem from="1703424970741" duration="15000" />
+      <workItem from="1703494350230" duration="29000" />
+      <workItem from="1703596046013" duration="599000" />
+      <workItem from="1703596954637" duration="168000" />
+      <workItem from="1703649952536" duration="604000" />
+      <workItem from="1703685450469" duration="152000" />
+      <workItem from="1704452722175" duration="618000" />
+      <workItem from="1704787196644" duration="24000" />
+      <workItem from="1704790189453" duration="625000" />
+      <workItem from="1704802341315" duration="27000" />
+      <workItem from="1706236748792" duration="13000" />
+      <workItem from="1706415108245" duration="70000" />
+    </task>
+    <task id="LOCAL-00001" summary="per">
+      <option name="closed" value="true" />
+      <created>1700911759033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700911759033</updated>
+    </task>
+    <task id="LOCAL-00002" summary="per">
+      <option name="closed" value="true" />
+      <created>1703419517181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703419517181</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="per" />
+    <option name="LAST_COMMIT_MESSAGE" value="per" />
+  </component>
+</project>

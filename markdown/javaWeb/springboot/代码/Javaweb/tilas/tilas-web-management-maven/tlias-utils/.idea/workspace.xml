@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e583b7f-0bf9-4089-ae9e-17ad247c34f5" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/REDME.md" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/REDME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/TliasWebManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/TliasWebManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/anno/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/anno/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/anno/MyLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/anno/MyLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/aop/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/aop/LogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/aop/MyAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/aop/MyAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/aop/MyAspect2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/aop/MyAspect2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/aop/TimeAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/aop/TimeAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/controller/DeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/controller/DeptController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/controller/EmpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/controller/EmpController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/controller/SessionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/controller/SessionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/controller/UploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/controller/UploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/exception/GlobalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/exception/GlobalException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/filter/AbcFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/filter/AbcFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/filter/DemoFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/filter/DemoFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/filter/LoginCheckFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/filter/LoginCheckFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/interceptor/LoginCheckInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/interceptor/LoginCheckInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/mapper/DeptLogMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/mapper/DeptLogMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/mapper/DeptMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/mapper/DeptMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/mapper/EmpMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/mapper/EmpMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/mapper/OperateLogMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/mapper/OperateLogMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/pojo/Dept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/pojo/DeptLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/pojo/Emp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/pojo/OperateLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/pojo/PageBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/pojo/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/service/DeptLogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/service/DeptLogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/service/DeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/service/DeptService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/service/EmpService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/service/EmpService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/service/impl/DeptLogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/service/impl/DeptLogServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/service/impl/DeptServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/service/impl/EmpServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/service/impl/EmpServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/utills/AliOSSProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/utills/AliOSSProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/utills/AliOSSUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/utills/AliOSSUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/java/com/example/utills/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/java/com/example/utills/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/resources/application.properties弃用" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/resources/application.properties弃用" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/resources/com/example/tliaswebmanagement/mapper/EmpMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/resources/com/example/tliaswebmanagement/mapper/EmpMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/main/resources/static/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/main/resources/static/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/test/java/com/example/tliaswebmanagement/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/test/java/com/example/tliaswebmanagement/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/src/test/java/com/example/tliaswebmanagement/TliasWebManagementApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/src/test/java/com/example/tliaswebmanagement/TliasWebManagementApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/数据/tilas结构.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/数据/tilas结构.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tlias-web-management/数据/tilas结构和数据.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../tlias-web-management/数据/tilas结构和数据.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\toolbox\apache-maven-3.9.6" />
+        <option name="userSettingsFile" value="E:\toolbox\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2mPyx4Kw1Rvkg3G5oWW9RICLjMF" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/toolbox/java/Javaweb/tilas/tilas-web-management-maven",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="untitled" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8e583b7f-0bf9-4089-ae9e-17ad247c34f5" name="更改" comment="" />
+      <created>1726992750249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726992750249</updated>
+      <workItem from="1726992751349" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,48 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/tilas
+    username: root
+    password: 123
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 100MB
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true
+
+# 阿里云OSS配置
+aliyun:
+  oss:
+    endpoint: https://oss-cn-beijing.aliyuncs.com
+    accessKeyId: LTAI5tCHyWucEaU16n7mPbZ6
+    accessKeySecret: 0nHgAQxhUyLgX7IySsV5atQ0CUKd3v
+    bucketName: my-web-tilas99
+
+#spring事务管理日志
+logging:
+  level:
+    org.springframework.jdbc.support.JdbcTransactionManager: debug
+
+#  如果同时存在application.properties、application.yml和application.yaml这三种类型的配置文件，Spring Boot会按照以下顺序来加载并合并它们的配置：
+#
+#    优先级：
+#    命令行参数------->Java系统属性-------->application.properties中的配置----->application.yml中的配置。---------->application.yaml中的配置。
+#    如果有相同的配置项，后面加载的配置会覆盖前面加载的配置。
+server:
+  port: 8080
+# 上面这里相当于server.port: 8080
+
+# 定义对象/Map集合
+user:
+  name:Tom
+  age:20
+  address:beijing
+
+# 定义数组/List/Set集合
+hobbies:
+  - java
+  - python
+  - c++

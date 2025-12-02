@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd582da2-9304-4aef-a010-c834dcec6cc3" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/tlias-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-pojo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/src/main/java/com/example/pojo/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-pojo/src/main/java/com/example/pojo/Dept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/src/main/java/com/example/pojo/DeptLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-pojo/src/main/java/com/example/pojo/DeptLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/src/main/java/com/example/pojo/Emp.java" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-pojo/src/main/java/com/example/pojo/Emp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/src/main/java/com/example/pojo/OperateLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-pojo/src/main/java/com/example/pojo/OperateLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/src/main/java/com/example/pojo/PageBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-pojo/src/main/java/com/example/pojo/PageBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/src/main/java/com/example/pojo/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-pojo/src/main/java/com/example/pojo/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/target/classes/com/example/pojo/Dept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/target/classes/com/example/pojo/DeptLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/target/classes/com/example/pojo/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/target/classes/com/example/pojo/OperateLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/target/classes/com/example/pojo/PageBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-pojo/target/classes/com/example/pojo/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-utils/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-utils/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-utils/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-utils/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-utils/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-utils/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-utils/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-utils/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-utils/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-utils/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-utils/src/main/java/com/example/utills/AliOSSProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-utils/src/main/java/com/example/utills/AliOSSProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-utils/src/main/java/com/example/utills/AliOSSUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-utils/src/main/java/com/example/utills/AliOSSUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilas-utils/src/main/java/com/example/utills/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/tlias-utils/src/main/java/com/example/utills/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-management/pom(删).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlias-web-management/src/main/resources/com/example/tliaswebmanagement/mapper/EmpMapper.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\toolbox\apache-maven-3.9.6" />
+        <option name="userSettingsFile" value="E:\toolbox\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mPvtjVKsoyY0qa1wOOhznJD6aw" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.tilas-pojo [org.apache.maven.plugins:maven-install-plugin:3.1.1:help].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tilas-pojo [org.apache.maven.plugins:maven-install-plugin:3.1.1:install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tlias-parent [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tlias-parent [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tlias-parent [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tlias-parent [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tlias-pojo [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tlias-utils [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tlias-web-management [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.TliasWebManagementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/office/资料/笔记/markdown/项目/苍穹外卖/代码和数据/sky-take-out&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\toolbox\java\Javaweb\tilas\tilas-web-management-maven\tlias-web-management\数据" />
+      <recent name="E:\toolbox\java\Javaweb\tilas\tilas-web-management-maven\tilas-utils\src\main\java\com\example" />
+      <recent name="E:\toolbox\java\Javaweb\tilas\tilas-web-management-maven\untitled\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.TliasWebManagementApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TliasWebManagementApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="dd582da2-9304-4aef-a010-c834dcec6cc3" name="更改" comment="" />
+      <created>1726991243091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726991243091</updated>
+      <workItem from="1726991244132" duration="925000" />
+      <workItem from="1726992180163" duration="570000" />
+      <workItem from="1726992778433" duration="442000" />
+      <workItem from="1726993228198" duration="2635000" />
+      <workItem from="1727262437607" duration="4762000" />
+      <workItem from="1727315392062" duration="4107000" />
+      <workItem from="1727430711464" duration="976000" />
+      <workItem from="1728132251921" duration="23000" />
+      <workItem from="1728363811233" duration="644000" />
+      <workItem from="1728462597350" duration="7000" />
+      <workItem from="1728559386087" duration="956000" />
+      <workItem from="1729236000947" duration="841000" />
+      <workItem from="1729239261858" duration="923000" />
+      <workItem from="1729243785985" duration="65000" />
+      <workItem from="1729243882718" duration="12000" />
+      <workItem from="1729244407594" duration="455000" />
+      <workItem from="1729684548826" duration="125000" />
+      <workItem from="1729684690974" duration="112000" />
+      <workItem from="1730275070412" duration="660000" />
+      <workItem from="1730277083365" duration="14000" />
+      <workItem from="1737776054879" duration="85000" />
+      <workItem from="1738729826152" duration="151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

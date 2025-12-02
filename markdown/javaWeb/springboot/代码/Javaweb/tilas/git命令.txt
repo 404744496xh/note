@@ -1,0 +1,10 @@
+git config --global user.email "404744496@qq.com"
+git config user.name 404744496xh    
+git@gitee.com:xh404744496xh/algorithm.git
+https://gitee.com/xh404744496xh/algorithm.git
+
+
+提交当前所有文件
+git add .
+git commit -m "提交所有当前文件"
+git push origin master

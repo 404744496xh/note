@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: userservice
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+        username: nacos
+        password: nacos
+        namespace: e05e812f-cf2c-4376-b0e6-c2e07f63171b
+      config:
+        server-addr: localhost:8848
+        username: nacos
+        password: nacos
+        namespace: e05e812f-cf2c-4376-b0e6-c2e07f63171b
+        file-extension: yaml
